@@ -1,1 +1,1 @@
-# sorting_algorithms
+# Readme for 0x1B. C - Sorting algorithms & Big O
